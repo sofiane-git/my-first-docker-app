@@ -1,0 +1,7 @@
+services:
+  server:
+    image: sofiane1/my-first-docker-app
+    ports:
+      - 5050:3000
+  mongodb:
+    image: mongo
