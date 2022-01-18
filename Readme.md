@@ -1,4 +1,4 @@
-# File with heading
+# My first docker app
 
 Commande pour démarrer l'application en mode développement avec Docker Compose :
 
